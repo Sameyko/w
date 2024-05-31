@@ -1,0 +1,15 @@
+{
+    "bot_token": "",
+    "capmonster_key": "",
+    "proxyless": false,
+    "change_server_nick": true,
+    "ownerID": [
+
+    ],
+    "adminID": [
+
+    ],
+    "order_log_webhook": "",
+    "boost_log_webhook": "",
+    "boost_failed_log_webhook": ""
+}
